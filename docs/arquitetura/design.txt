@@ -1,0 +1,3 @@
+O front-end do aplicativo será desenvolvido inteiramente por web, por conta disso, a estrutura visual será feita em CSS.
+A linguagem visual que o app seguirá é a Material Design 2, também inspirada em elementos da Material Design 1 e da Apple Design Resources, para os efeitos gestuais
+
