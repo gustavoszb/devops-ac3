@@ -1,0 +1,3 @@
+A Implementação do projeto será implementado para a PlayStore Para os celulares Android e
+AppleStore para IOS,será disponibilizado em uma versão beta que ocorrera diversas mudanças para 
+atualizar o software.
