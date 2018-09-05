@@ -1,0 +1,3 @@
+Os cenários permitem o levantamento e a descrição mais global das informações, das tarefas e dos problemas do domínio. O perfil de usuário descreve as características de usuários em termo de conhecimento, cultura, capacidades e limitações. A análise de tarefas visa determinar quais as atividades que os usuários (ou cada papel de usuário) devem realizar. Esta informação é essencial para se especificar os requisitos funcionais, determinando a funcionalidade do software. Para que o sistema possa ser construído para que estes problemas sejam resolvidos, ele deve ser uma ferramenta auxiliar na realização das tarefas de cada usuário.
+
+
