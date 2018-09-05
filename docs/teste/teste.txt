@@ -1,0 +1,9 @@
+O teste de unidade é o primeiro e mais básico teste que o software de um projeto pode sofrer.
+Deve-se lembrar que unidade, aqui é entendida como sendo um componente indivisível de código
+sob a responsabilidade de apenas um programador.
+Em geral, esse teste é dividido em duas fases. A primeira se concentra em depurar a unidade em
+seu contexto léxico-sintático (por exemplo, por meio do uso de compiladores); nesse ponto, o uso
+de listas de verificação (check-list) e inspeção visual do código também traz bons resultados. Já a
+segunda tem por objetivo verificar a lógica da unidade. Nessa fase, a proposta é exercitar as interfaces,
+os comandos iterativos, os comandos condicionais, a manipulação das estruturas de dados e
+verificar o fluxo de controle.
