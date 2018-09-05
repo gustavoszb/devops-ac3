@@ -1,0 +1,1 @@
+Programação - a progração analisa o tipo de linguagem que devera ser ultilizada e cria o codigo.
